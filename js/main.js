@@ -7,5 +7,7 @@ $(document).ready( function () {
        $("#leaf").append("<img class='leaf' src='images/bulbasaur.png' alt='pokemon' />");
 
    });
-
+     $( ".animal").click( function()) {
+      alert(blah) 
+     }
 });
